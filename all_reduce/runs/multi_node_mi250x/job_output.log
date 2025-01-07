@@ -1,0 +1,4 @@
+SLUM_NODES=2  NODE_LIST:x1000c0s2b0n0,x1000c0s2b1n0
+Starting SLURM job. Mon 06 Jan 2025 07:20:44 PM PST
+Setting environment for system: lockhart-mi250x
+Finished SLURM job. Mon 06 Jan 2025 07:20:45 PM PST

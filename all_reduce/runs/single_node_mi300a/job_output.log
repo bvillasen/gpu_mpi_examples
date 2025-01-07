@@ -1,0 +1,39 @@
+SLUM_NODES=1  NODE_LIST:x1001c0s2b1n0
+Starting SLURM job. Mon 06 Jan 2025 04:42:36 PM PST
+Setting environment for system: lockhart-mi300a
+MPI_RANK: 0  MPI_SIZE: 4
+rank_local=  0   GOMP_CPU_AFFINITY=  0-0:1   ROCR_VISIBLE_DEVICES=  0  chiplet_ID=  0
+eval: numactl -C 0-0  -m 0 /home/bvillase/gpu_mpi_examples/all_reduce/gpu_all_reduce_mi300a
+MPI_RANK: 1  MPI_SIZE: 4
+rank_local=  1   GOMP_CPU_AFFINITY=  24-24:1   ROCR_VISIBLE_DEVICES=  1  chiplet_ID=  1
+eval: numactl -C 24-24  -m 1 /home/bvillase/gpu_mpi_examples/all_reduce/gpu_all_reduce_mi300a
+MPI_RANK: 2  MPI_SIZE: 4
+MPI_RANK: 3  MPI_SIZE: 4
+rank_local=  2   GOMP_CPU_AFFINITY=  48-48:1   ROCR_VISIBLE_DEVICES=  2  chiplet_ID=  2
+eval: numactl -C 48-48  -m 2 /home/bvillase/gpu_mpi_examples/all_reduce/gpu_all_reduce_mi300a
+rank_local=  3   GOMP_CPU_AFFINITY=  72-72:1   ROCR_VISIBLE_DEVICES=  3  chiplet_ID=  3
+eval: numactl -C 72-72  -m 3 /home/bvillase/gpu_mpi_examples/all_reduce/gpu_all_reduce_mi300a
+GPU-Aware MPI. All reduce
+MPI rank= 0 will use GPU ID 0 / 1
+MPI rank= 2 will use GPU ID 0 / 1
+MPI rank= 3 will use GPU ID 0 / 1
+Total array size: 134217728  Size: 1024 MB
+MPI rank= 1 will use GPU ID 0 / 1
+
+CPU N iterations: 1
+CPU Rank 0 Time total: 5785 msecs Time per iteration: 5785 msecs Bandwidth: 0.691444 GB/s
+CPU Rank 2 Time total: 5726.4 msecs Time per iteration: 5726.4 msecs Bandwidth: 0.698519 GB/s
+CPU Rank 3 Time total: 5729.49 msecs Time per iteration: 5729.49 msecs Bandwidth: 0.698143 GB/s
+CPU Rank 1 Time total: 5740.26 msecs Time per iteration: 5740.26 msecs Bandwidth: 0.696833 GB/s
+
+GPU N iterations: 1
+GPU Rank 0 Time total: 2640.72 msecs Time per iteration: 2640.72 msecs Bandwidth: 1.51474 GB/s
+GPU Rank 1 Time total: 2583.11 msecs Time per iteration: 2583.11 msecs Bandwidth: 1.54852 GB/s
+GPU Rank 2 Time total: 2568.9 msecs Time per iteration: 2568.9 msecs Bandwidth: 1.55709 GB/s
+GPU Rank 3 Time total: 2614.69 msecs Time per iteration: 2614.69 msecs Bandwidth: 1.52982 GB/s
+Validation PASSED.
+Validation PASSED.
+Validation PASSED.
+Validation PASSED.
+Finished 
+Finished SLURM job. Mon 06 Jan 2025 04:42:52 PM PST

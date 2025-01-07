@@ -1,0 +1,43 @@
+SLUM_NODES=1  NODE_LIST:x1000c0s1b0n0
+Starting SLURM job. Mon 06 Jan 2025 07:19:41 PM PST
+Setting environment for system: lockhart-mi250x
+GPU-Aware MPI. All reduce
+MPI rank= 1 will use GPU ID 1 / 8
+MPI rank= 0 will use GPU ID 0 / 8
+MPI rank= 2 will use GPU ID 2 / 8
+MPI rank= 3 will use GPU ID 3 / 8
+MPI rank= 4 will use GPU ID 4 / 8
+MPI rank= 6 will use GPU ID 6 / 8
+MPI rank= 7 will use GPU ID 7 / 8
+Total array size: 134217728  Size: 1024 MB
+MPI rank= 5 will use GPU ID 5 / 8
+
+CPU N iterations: 1
+CPU Rank 0 Time total: 3415.45 msecs Time per iteration: 3415.45 msecs
+CPU Rank 1 Time total: 3411.65 msecs Time per iteration: 3411.65 msecs
+CPU Rank 2 Time total: 3421.22 msecs Time per iteration: 3421.22 msecs
+CPU Rank 3 Time total: 3420.71 msecs Time per iteration: 3420.71 msecs
+CPU Rank 4 Time total: 3421.06 msecs Time per iteration: 3421.06 msecs
+CPU Rank 5 Time total: 3420.66 msecs Time per iteration: 3420.66 msecs
+CPU Rank 6 Time total: 3418.77 msecs Time per iteration: 3418.77 msecs
+CPU Rank 7 Time total: 3417.7 msecs Time per iteration: 3417.7 msecs
+
+GPU N iterations: 1
+GPU Rank 4 Time total: 689.479 msecs Time per iteration: 689.479 msecs
+GPU Rank 5 Time total: 693.068 msecs Time per iteration: 693.068 msecs
+GPU Rank 6 Time total: 693.577 msecs Time per iteration: 693.577 msecs
+GPU Rank 0 Time total: 701.207 msecs Time per iteration: 701.207 msecs
+GPU Rank 1 Time total: 699.842 msecs Time per iteration: 699.842 msecs
+GPU Rank 2 Time total: 701.397 msecs Time per iteration: 701.397 msecs
+GPU Rank 3 Time total: 702.645 msecs Time per iteration: 702.645 msecs
+GPU Rank 7 Time total: 690.193 msecs Time per iteration: 690.193 msecs
+Validation PASSED.
+Validation PASSED.
+Validation PASSED.
+Validation PASSED.
+Validation PASSED.
+Validation PASSED.
+Validation PASSED.
+Validation PASSED.
+Finished 
+Finished SLURM job. Mon 06 Jan 2025 07:19:52 PM PST

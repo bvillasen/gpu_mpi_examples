@@ -1,0 +1,162 @@
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b1n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b0n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b1n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b0n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b1n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b1n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b0n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b0n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b1n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b1n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b1n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b1n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b0n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b0n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b0n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+MPICH ERROR [Rank 0] [job id 2276.0] [Mon Jan  6 19:20:45 2025] [x1000c0s2b0n0] - Abort(1091983) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(501)..............: 
+MPIDI_OFI_mpi_init_hook(647): OFI fi_open domain failed (ofi_init.c:647:MPIDI_OFI_mpi_init_hook:Invalid argument)
+srun: error: x1000c0s2b0n0: tasks 0-7: Exited with exit code 255
+srun: error: x1000c0s2b1n0: tasks 8-15: Exited with exit code 255
