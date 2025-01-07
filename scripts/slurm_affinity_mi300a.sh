@@ -7,7 +7,7 @@ elif [[ -n "${SLURM_LOCALID+z}" ]]; then
     export MPI_RANK=${SLURM_LOCALID} 
     export MPI_SIZE=${SLURM_NTASKS}
 fi 
-echo "MPI_RANK: $MPI_RANK  MPI_SIZE: $MPI_SIZE" 
+echo "MPI_RANK: $MPI_RANK  MPI_SIZE: $MPI_SIZE"  
 
 
 if [ -z "${RANK_STRIDE}" ]; then
